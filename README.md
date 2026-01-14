@@ -1,4 +1,5 @@
 📌 Facial Emotion Recognition using Deep Learning
+
 📖 Project Overview
 
 This project focuses on building a deep learning model to classify human facial expressions into multiple emotion categories. The goal was not only to train a model, but to understand and evaluate its learning behavior using training and validation metrics.

@@ -1,4 +1,4 @@
-📌 Facial Emotion Recognition using Deep Learning
+Facial Emotion Recognition using Deep Learning
 
 📖 Project Overview
 
